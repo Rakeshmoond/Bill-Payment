@@ -1,0 +1,24 @@
+.title{
+    text-align: center;
+    padding: 5px;
+}
+.centre{
+    text-decoration: cyan;
+text-transform: uppercase;
+    content: initial;
+    padding: 60px;
+    align-content: center;
+    float:auto ;
+    margin-left: auto;
+    margin-right: auto;
+    text-decoration-style: solid;
+    border: solid;
+    border-radius: 2px;
+width: 30%;
+    text-decoration-color: turquoise;
+    color:solid black;
+}
+body{
+    background-image: url(https://www.w3schools.com/w3css/img_nature.jpg);
+    background-size: 100%;
+}
